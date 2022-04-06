@@ -1,0 +1,31 @@
+id: P65C7DBB1
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6255
+  instance_id: http://purl.bdrc.io/resource/IE1KG6255
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - འབྲི་གུང་གདན་རབས་གསེར་ཕྲེང་།
+  alt_title:
+    zh-hans:
+    - 直贡法嗣
+  author: http://purl.bdrc.io/resource/P845
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    a1d662bf05ea4a3883316ab481303ab1:
+      title: པོད ༡་འབྲི་གུང་གདན་རབས་གསེར་ཕྲེང་།
+      volume_number: 1
+      base_file: UT1KG6255_I1KG6301_0000.txt
+      reference: http://purl.bdrc.io/resource/VL18268C6F9E21AA13
+      image_group: I1KG6301
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6255
+  - http://purl.bdrc.io/resource/W1KG6255
+  ocr_software: Namsel
+created_at: '2021-12-22T10:58:16.295399'
+last_modified_at: '2021-12-22T10:58:16.295404'
